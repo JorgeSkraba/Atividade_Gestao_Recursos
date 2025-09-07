@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class VazamentoMemoria {
+public class VazamentoMemoriaJava {
         public static void main(String[] args) {
                 ArrayList<byte[]> listaBlocos = new ArrayList<byte[]>();
                 int Contador = 0;
@@ -31,4 +31,5 @@ public class VazamentoMemoria {
                 scanner.nextLine();
                 scanner.close();
         }
+
 }
