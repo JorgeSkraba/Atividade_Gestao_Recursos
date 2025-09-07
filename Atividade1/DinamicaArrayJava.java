@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DinamicaArray {
+public class DinamicaArrayJava {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -37,3 +37,4 @@ public class DinamicaArray {
         System.out.println("Programa finalizado. Memória será liberada automaticamente.");
     }
 }
+
